@@ -5,10 +5,12 @@ excerpt: >-
 official website of: Squak Mountain State Park
 postal address: "21430 SE May Valley Road, Issaquah, WA 98029"
 retrieved: 2025-05-06
+state park page of: Washington State Parks (parks.wa.gov)
 type: website
 url: /parks.wa.gov/find-parks/state-parks/squak-mountain-state-park/
 vantage point of: Seattle
 website: "https://parks.wa.gov/find-parks/state-parks/squak-mountain-state-park"
 tags:
   - website
+  - state park page
 ---

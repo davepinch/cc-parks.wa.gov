@@ -8,10 +8,11 @@ mention of:
   - Little Spokane River
 official website of: Riverside State Park
 retrieved: 2026-06-17
+state park page of: Washington State Parks (parks.wa.gov)
 type: website
 url: /parks.wa.gov/find-parks/state-parks/riverside-state-park/
 website: "https://parks.wa.gov/find-parks/state-parks/riverside-state-park"
 tags:
   - website
-  - Washington State Parks (parks.wa.gov)
+  - state park page
 ---

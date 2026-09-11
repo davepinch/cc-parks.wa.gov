@@ -5,9 +5,11 @@ excerpt: >-
 official website of: Wallace Falls State Park
 postal address: "14503 Wallace Lake Road, Gold Bar, WA 98251"
 retrieved: 2025-05-06
+state park page of: Washington State Parks (parks.wa.gov)
 type: website
 url: /parks.wa.gov/find-parks/state-parks/wallace-falls-state-park/
 website: "https://parks.wa.gov/find-parks/state-parks/wallace-falls-state-park"
 tags:
   - website
+  - state park page
 ---

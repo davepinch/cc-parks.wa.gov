@@ -5,10 +5,11 @@ excerpt: >-
   Kopachuck State Park is great for a family picnic or to immerse yourself in nature while walking your dog. Recharge your batteries with stunning beach sunsets.
 official website of: Kopachuck State Park
 retrieved: 2026-09-10
+state park page of: Washington State Parks (parks.wa.gov)
 type: website
 url: /parks.wa.gov/find-parks/state-parks/kopachuck-state-park/
 website: "https://parks.wa.gov/find-parks/state-parks/kopachuck-state-park"
 tags:
   - website
-  - Washington State Parks (parks.wa.gov)
+  - state park page
 ---
