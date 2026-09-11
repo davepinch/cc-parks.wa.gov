@@ -10,4 +10,5 @@ url: /parks.wa.gov/find-parks/state-parks/birch-bay-state-park/
 website: "https://parks.wa.gov/find-parks/state-parks/birch-bay-state-park"
 tags:
   - website
-  - 
+  - Washington State Parks (parks.wa.gov)
+---
