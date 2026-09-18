@@ -1,5 +1,5 @@
 ---
-title: "Crawford State Park Heritage Site"
+title: "Crawford State Park Heritage Site (parks.wa.gov)"
 address: "425 Gardner Cave Road, Metaline Falls, WA 99152"
 excerpt: >-
   Crawford State Park is a 40-acre forested day-use park. Home to Gardner Cave, one of Washington's longest limestone caves, offering access to an intriguing underground landscape. Reservations are required for tours.
