@@ -1,6 +1,7 @@
 ---
 title: "FortColumbia1.jpg (biz.parks.wa.gov)"
 caption: camera at Fort Columbia State Park
+license: "© 2006-2024 Washington State Parks and Recreation Commission, WA and its representatives. All rights reserved."
 picture: "https://biz.parks.wa.gov/webcams/FortColumbia1.jpg"
 type: picture
 url: /biz.parks.wa.gov/webcams/FortColumbia1.jpg/
