@@ -9,6 +9,7 @@ webcam in:
   - Fort Columbia State Park (parks.wa.gov)
 webcam of:
   - Columbia River
+website: "https://parks.wa.gov/find-parks/state-parks/fort-columbia-state-park"
 tags:
   - picture
   - webcam
