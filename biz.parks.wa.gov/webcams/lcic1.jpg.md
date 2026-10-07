@@ -11,6 +11,7 @@ webcam in:
   - Washington State Parks (parks.wa.gov)
 webcam view of:
   - Pacific Ocean
+website: "https://parks.wa.gov/find-parks/state-parks/cape-disappointment-state-park"
 tags:
   - picture
   - webcam
